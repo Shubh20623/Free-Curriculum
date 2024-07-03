@@ -1,0 +1,33 @@
+/* HomePage.css */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 80px 0;
+}
+
+.container {
+  text-align: center;
+}
+
+.display-4 {
+  color: #343a40;
+  font-weight: 500;
+}
+
+.lead {
+  font-size: 1.25rem;
+  color: #6c757d;
+}
+
+.my-4 {
+  border-top: 1px solid #6c757d;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #0056b3;
+}
